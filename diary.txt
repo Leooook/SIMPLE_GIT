@@ -1,0 +1,32 @@
+Date	  Start	   Stop    Activity	Comments
+20/09/18  19:00    22:00   planning     understand and plan the whole structure of program.
+21/09/18  10:00    11:30   coding       struct the main function and inplemetnted initally functionality.
+21/09/18  12:00    13:30   coding       implemented basic add functionality.
+21/09/18  13:30    14:30   debugging    found bug when copy files from workpath.
+21/09/18  16:00    18:00   coding       implemented basic add functionality.
+21/09/18  18:00    18:30   coding       implemented log functionality.
+21/09/18  19:00    21:00   coding       implemented show functionality.
+21/09/18  21:30    23:00   debugging    found bug when show in [:filename](no commit) condition.
+22/09/18  11:30    13:00   coding       implemented basic commit-add functionality.
+22/09/18  13:00    14:00   updating     implemented new function(meet the new condition) of commit.
+23/09/18  9:30     15:00   coding       implemented basic remove functionality.
+23/09/18  15:00    19:00   debugging    found bug in remove(--cached) condition.
+24/09/18  10:00    12:00   coding       implemented status functionality.
+24/09/18  13:00    15:00   updating     update the structure of main function.
+24/09/18  18:00    19:00   planning     plan and find the all kinds of conditions of subset2.
+25/09/18  13:00    16:00   updating     reverse the structure of inital to make them more suitable for branche function.
+25/09/18  17:00    21:00   coding       implemented basic branch functionality.
+26/09/18  10:00    19:00   debugging    found many bugs in branch function.
+27/09/18  9:00     12:00   coding       implemented basic checkout functionality.
+27/09/18  12:00    14:00   debugging    found strange bug in checkout function when test.
+1/10/18   9:00     12:00   updating     update the structure of branch and checkout structure.
+1/10/18   14:00    20:00   coding       try tp achieve merge functionality.
+2/10/18   18:00    22:00   updating     implemented new function for checkout functionality.
+
+
+
+
+
+
+
+
